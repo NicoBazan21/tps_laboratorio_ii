@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTurno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Turno>
+    <NombreCompleto>BazanMod</NombreCompleto>
+    <Dni>87654321</Dni>
+    <Derivacion>Cardiologia</Derivacion>
+    <Fecha>1975-03-24T00:00:00</Fecha>
+    <ApellidoDoctor>Nuevo doctor</ApellidoDoctor>
+  </Turno>
+  <Turno>
+    <NombreCompleto>Nico Bazan</NombreCompleto>
+    <Dni>43010849</Dni>
+    <Derivacion>MedicoClinico</Derivacion>
+    <Fecha>2000-06-05T11:00:00</Fecha>
+    <ApellidoDoctor>Vaquera Beatriz</ApellidoDoctor>
+  </Turno>
+</ArrayOfTurno>

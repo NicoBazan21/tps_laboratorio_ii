@@ -1,0 +1,12 @@
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Rene\Desktop\TP3\BazanVaquera.NicolasJA.2A.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
