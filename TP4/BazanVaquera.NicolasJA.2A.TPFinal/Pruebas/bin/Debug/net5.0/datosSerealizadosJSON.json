@@ -1,0 +1,16 @@
+[
+  {
+    "Derivacion": 4,
+    "Fecha": "1975-03-24T00:00:00",
+    "ApellidoDoctor": "Nuevo doctor",
+    "NombreCompleto": "BazanMod",
+    "Dni": 87654321
+  },
+  {
+    "Derivacion": 2,
+    "Fecha": "2000-06-05T11:00:00",
+    "ApellidoDoctor": "Vaquera Beatriz",
+    "NombreCompleto": "Nico Bazan",
+    "Dni": 43010849
+  }
+]
