@@ -2546,11 +2546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\FormIntro\\Formulario.csproj",
+      "projectUniqueName": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\FormIntro\\Formulario.csproj",
       "projectName": "Formulario",
-      "projectPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\FormIntro\\Formulario.csproj",
+      "projectPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\FormIntro\\Formulario.csproj",
       "packagesPath": "C:\\Users\\Rene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\FormIntro\\obj\\",
+      "outputPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\FormIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rene\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2567,8 +2567,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

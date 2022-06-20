@@ -7,6 +7,10 @@ namespace TestUnitarios
     [TestClass]
     public class UnitTest1
     {
+        /// <summary>
+        /// Verifica que se rechace un turno el mismo dia y la misma hora, ya que eso no
+        ///seria posible en la realidad para el Cliente o para el Doctor
+        /// </summary>
         [TestMethod]
         public void AgregarTurnoMismaHoraMismoDia()
         {
@@ -24,6 +28,9 @@ namespace TestUnitarios
             Assert.AreEqual(obraTurnos.Lista.Count, cantidadDeElementosEsperados);
 
         }
+        /// <summary>
+        /// Verifica que se pueda agregar un turno a la misma hora, pero distinto dia
+        /// </summary>
         [TestMethod]
         public void AgregarTurnoMismaHoraDistintoDia()
         {
@@ -42,6 +49,9 @@ namespace TestUnitarios
             Assert.AreEqual(obraTurnos.Lista.Count, cantidadDeElementosEsperados);
         }
 
+        /// <summary>
+        /// Verifica el correcto funcionamiento de Eliminar un turno mediante un índice
+        /// </summary>
         [TestMethod]
         public void EliminarTurnoPorDni()
         {
@@ -66,6 +76,9 @@ namespace TestUnitarios
             Assert.AreEqual(obraTurnos.Lista.Count, cantidadDeElementosEsperados);
         }
 
+        /// <summary>
+        /// Verifica que no se puedan agregar turnos iguales
+        /// </summary>
         [TestMethod]
         public void AcasoSonIgualesEstosTurnos()
         {

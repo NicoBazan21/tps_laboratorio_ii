@@ -2528,11 +2528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Rene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rene\\AppData\\Roaming\\NuGet\\NuGet.Config",

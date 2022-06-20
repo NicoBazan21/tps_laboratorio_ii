@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SUiAck7EWl8TXmb/6HFbM0932c+LojGpz9hzcz59mfE3viZ+nKS3TA/SD0ShLZwp5ja5dm69moItIeqs1diN7g==",
+  "dgSpecHash": "nETdsLWvVY9SroJOEmic3JicesZdObrr9piH7xTZ+Tn6ucVWIU1cuKTJeagSybD2HAJTcEDw+ZaihVylR6H6NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\TPs LAB2\\TP3\\BazanVaquera.NicolasJA.2A.TPFinal\\Pruebas\\Pruebas.csproj",
+  "projectFilePath": "C:\\Users\\Rene\\Desktop\\UTN\\TPS de Labo 2\\Clonar de vuekta\\tps_laboratorio_ii\\TP4\\BazanVaquera.NicolasJA.2A.TPFinal\\Pruebas\\Pruebas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rene\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Rene\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
