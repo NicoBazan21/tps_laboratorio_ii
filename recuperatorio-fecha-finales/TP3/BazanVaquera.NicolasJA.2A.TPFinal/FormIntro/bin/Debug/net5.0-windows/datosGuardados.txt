@@ -1,0 +1,12 @@
+Nombre completo: Nico Bazan dni: 43010849
+ Derivacion: Cardiologia con: Eloy Hervas 7 jun. 2022 15:00:00
+Nombre completo: Delia Vaquera dni: 17350105
+ Derivacion: MedicoClinico con: Mar Caro 16 jun. 2022 19:00:00
+
+Nombre completo: Nico Bazan dni: 43010849
+ Derivacion: Cardiologia con: Eloy Hervas 7 jun. 2022 15:00:00
+Nombre completo: Delia Vaquera dni: 17350105
+ Derivacion: MedicoClinico con: Mar Caro 16 jun. 2022 19:00:00
+Nombre completo: Nico Bazan dni: 43010849
+ Derivacion: Pediatria con: Oier Polo 8 jun. 2022 17:00:00
+

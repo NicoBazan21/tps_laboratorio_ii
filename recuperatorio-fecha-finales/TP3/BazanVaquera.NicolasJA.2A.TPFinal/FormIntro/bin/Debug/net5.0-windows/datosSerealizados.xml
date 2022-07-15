@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTurno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Turno>
+    <NombreCompleto>Nico Bazan</NombreCompleto>
+    <Dni>43010849</Dni>
+    <Derivacion>Cardiologia</Derivacion>
+    <Fecha>2022-06-07T15:00:00</Fecha>
+    <ApellidoDoctor>Eloy Hervas</ApellidoDoctor>
+  </Turno>
+  <Turno>
+    <NombreCompleto>Delia Vaquera</NombreCompleto>
+    <Dni>17350105</Dni>
+    <Derivacion>Dermatologia</Derivacion>
+    <Fecha>2022-06-16T19:00:00</Fecha>
+    <ApellidoDoctor>Jacinta Puerta</ApellidoDoctor>
+  </Turno>
+  <Turno>
+    <NombreCompleto>Nico Bazan</NombreCompleto>
+    <Dni>43010849</Dni>
+    <Derivacion>Pediatria</Derivacion>
+    <Fecha>2022-06-08T17:00:00</Fecha>
+    <ApellidoDoctor>Oier Polo</ApellidoDoctor>
+  </Turno>
+  <Turno>
+    <NombreCompleto>Rene Bazan</NombreCompleto>
+    <Dni>12345678</Dni>
+    <Derivacion>Cardiologia</Derivacion>
+    <Fecha>2022-07-15T12:00:00</Fecha>
+    <ApellidoDoctor>Lorenzo Prados</ApellidoDoctor>
+  </Turno>
+</ArrayOfTurno>
