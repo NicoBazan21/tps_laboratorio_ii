@@ -13,6 +13,7 @@ usas esa excepcion.
 parámetros.
 
 Correcciones TP4:
+
 Gestion turnos obra social - UnitTest1.cs? - no se corrigió. Cambiale el nombre por defecto, por
 favor.
 Comentarios como "//podria poner una excepcion" ya no deberían estar en el código.
